@@ -6,6 +6,7 @@ This is OPen-GAS, a project powered by AI for security incident management based
 
 
 **INSTALLATION**
+
 To install this project, follow these steps:
 
 * git clone https://github.com/Yemmy1000/open-gas.git
